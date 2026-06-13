@@ -25,7 +25,7 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
 ### 🧰 Entornos y Herramientas
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="120" style="margin-right: 20px;" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xampp/xampp-original.svg" alt="XAMPP" height="120" />
+  <img src="https://www.vectorlogo.zone/logos/apache_friends_xampp/apache_friends_xampp-icon.svg" alt="XAMPP" height="120" />
 </p>
 
 ---
