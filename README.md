@@ -19,7 +19,7 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
       <br /><strong>HTML5</strong>
     </td>
-    <!-- CSS-->
+    <!-- CSS3-->
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
       <br /><strong>CSS</strong>
