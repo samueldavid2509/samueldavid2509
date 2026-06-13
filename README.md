@@ -46,7 +46,7 @@
 Aquí comparto los cursos y plataformas donde sigo potenciando mi perfil profesional:
 
 * 🎓 **Ingeniería de Sistemas** – Universidad (En curso)
-* 🚀 **Curso / Diplomado en Desarrollo Web** – [Edutin Academy](AQUÍ_PONES_EL_LINK_DE_TU_CERTIFICADO_O_CURSO)
+* 🚀 **Curso / Diplomado en Desarrollo Web** – https://app.edutin.com/classroom?course_id=12737&source_id=169615
 * ✍️ *Próximamente más certificaciones...*
 
 ---
