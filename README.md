@@ -1,4 +1,4 @@
-# ¡Hola! Soy un apasionado del desarrollo de software 👋
+# ¡Hola! Soy Samuel David 👋
 
 Soy programador de software y desarrollador junior. Mi enfoque principal es el desarrollo web, la creación de páginas web dinámicas, interactivas y la implementación de sistemas CRUD eficientes. Me motiva transformar ideas en código funcional y seguir expandiendo mis habilidades día a día.
 
@@ -35,4 +35,4 @@ Soy programador de software y desarrollador junior. Mi enfoque principal es el d
 
 ---
 
-⚡ *¡Próximamente estaré añadiendo mis certificaciones y proyectos destacados a medida que siga creciendo profesionalmente!*
+⚡ *¡Próximamente estaré añadiendo mi portafolio, proyectos destacados y certificaciones a medida que siga creciendo profesionalmente!*
