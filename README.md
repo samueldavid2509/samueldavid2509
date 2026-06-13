@@ -27,12 +27,4 @@ Soy programador de software y desarrollador junior. Mi enfoque principal es el d
 
 ---
 
-## 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUÍ&show_icons=true&theme=radial&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-
----
-
 ⚡ *¡Próximamente estaré añadiendo mi portafolio, proyectos destacados y certificaciones a medida que siga creciendo profesionalmente!*
