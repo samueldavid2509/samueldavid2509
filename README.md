@@ -25,7 +25,6 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
 ### 🧰 Entornos y Herramientas
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="120" style="margin-right: 20px;" />
-  <img src="https://www.vectorlogo.zone/logos/apache_friends_xampp/apache_friends_xampp-icon.svg" alt="XAMPP" height="120" />
 </p>
 
 ---
@@ -45,13 +44,4 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
   <a href="https://wa.me/573128940041" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="85" />
   </a>
-</p>
-
----
-
-### 📊 Mis Estadísticas de GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB_AQUI&show_icons=true&theme=tokyonight&count_private=true" alt="Estadísticas de GitHub" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_DE_GITHUB_AQUI&layout=compact&theme=tokyonight" alt="Lenguajes más usados" height="180" />
 </p>
