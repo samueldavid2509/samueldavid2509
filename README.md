@@ -12,20 +12,20 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" style="margin-right: 10px;"/>
+  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=HTML5&lineCount=1&theme=dark&line1=html5%2Chtml5%2Cffffff%3B" alt="HTML5" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=CSS3&lineCount=1&theme=dark&line1=css3%2Ccss3%2Cffffff%3B" alt="CSS3" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=JavaScript&lineCount=1&theme=dark&line1=javascript%2Cjavascript%2Cffffff%3B" alt="JavaScript" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
 </p>
 
 ### ⚙️ Backend y Otros Lenguajes
 <p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" style="margin-right: 10px;"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" style="margin-right: 10px;"/>
+  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=PHP&lineCount=1&theme=dark&line1=php%2Cphp%2Cffffff%3B" alt="PHP" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
+  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=C%2B%2B&lineCount=1&theme=dark&line1=cplusplus%2Ccplusplus%2Cffffff%3B" alt="C++" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
 </p>
 
 ### 🗄️ Gestión de Datos (Operaciones CRUD)
 Para que las aplicaciones web conserven la información de forma segura y permanente, implemento operaciones **CRUD** conectadas directamente a sistemas de gestión de bases de datos relacionales.
 
 <p align="left">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="45"/>
+  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=MySQL&lineCount=1&theme=dark&line1=mysql%2Cmysql%2Cffffff%3B" alt="MySQL" height="130"/>
 </p>
