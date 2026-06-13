@@ -52,3 +52,4 @@ Aquí comparto los cursos y plataformas donde sigo potenciando mi perfil profesi
 ---
 
 ⚡ *¡Próximamente estaré añadiendo mi portafolio, proyectos destacados y soluciones de software a medida que siga creciendo profesionalmente!*
+
