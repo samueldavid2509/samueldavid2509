@@ -48,15 +48,4 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
     </td>
   </tr>
 </table>
-
----
-
-## 📈 Estadísticas de GitHub
-
-```xml
-<!-- Puedes descomentar y usar estas líneas si quieres añadir tus tarjetas de estadísticas más adelante reemplazando TU_USUARIO -->
-<!-- 
-<p align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)" alt="Estadísticas de GitHub" />
-</p> 
--->
+|||||||||||||||||||||||||||||||||||||||||||||
