@@ -12,20 +12,20 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
 
 ### 💻 Frontend
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="65" height="65" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="65" height="65" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="65" height="65" style="margin-right: 15px;"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="40" style="margin-right: 10px;"/>
 </p>
 
 ### ⚙️ Backend y Otros Lenguajes
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="65" height="65" style="margin-right: 15px;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="65" height="65" style="margin-right: 15px;"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="40" style="margin-right: 10px;"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" height="40" style="margin-right: 10px;"/>
 </p>
 
 ### 🗄️ Gestión de Datos (Operaciones CRUD)
 Para que las aplicaciones web conserven la información de forma segura y permanente, implemento operaciones **CRUD** conectadas directamente a sistemas de gestión de bases de datos relacionales.
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="75" height="75"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="45"/>
 </p>
