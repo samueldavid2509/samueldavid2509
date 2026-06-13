@@ -14,7 +14,7 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
 
 <table align="center" border="0">
   <tr>
-    <!-- HTML5 -->
+    <!-- HTML-->
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
       <br /><strong>HTML5</strong>
@@ -22,7 +22,7 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
     <!-- CSS3 -->
     <td align="center" width="150">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
-      <br /><strong>CSS3</strong>
+      <br /><strong>CSS</strong>
     </td>
     <!-- JavaScript -->
     <td align="center" width="150">
@@ -48,4 +48,3 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
     </td>
   </tr>
 </table>
-|||||||||||||||||||||||||||||||||||||||||||||
