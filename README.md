@@ -4,54 +4,59 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
 
 ## 🚀 Sobre mí
 
-* **Enfoque Principal:** Desarrollo Frontend, especializado en la creación de aplicaciones web dinámicas, interactivas y estructuradas.
+* **Enfoque Principal:** Desarrollo de software y aplicaciones web, especializado en la creación de soluciones dinámicas, interactivas y bien estructuradas.
 * **Formación Académica:** Estudiante de Ingeniería de Sistemas, aplicando fundamentos sólidos de ciencia de la computación al desarrollo de software real.
-* **Mentalidad:** En constante aprendizaje y perfeccionamiento de tecnologías modernas de desarrollo web.
+* **Mentalidad:** En constante aprendizaje y perfeccionamiento de tecnologías y lenguajes modernos.
 
-## 🛠️ Tecnologías y Herramientas
+---
 
-### 💻 Frontend
+## 🛠️ Tecnologías y Lenguajes de Programación
 
-<table border="0">
+<table align="center" border="0">
   <tr>
-    <td align="center" width="180">
-      <h3>HTML5</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" height="120" alt="HTML5" />
+    <!-- HTML5 -->
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" alt="HTML5" />
+      <br /><strong>HTML5</strong>
     </td>
-    <td align="center" width="180">
-      <h3>CSS3</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" height="120" alt="CSS3" />
+    <!-- CSS3 -->
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="60" height="60" alt="CSS3" />
+      <br /><strong>CSS3</strong>
     </td>
-    <td align="center" width="180">
-      <h3>JavaScript</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120" height="120" alt="JavaScript" />
+    <!-- JavaScript -->
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="60" height="60" alt="JavaScript" />
+      <br /><strong>JavaScript</strong>
+    </td>
+  </tr>
+  <tr>
+    <!-- PHP -->
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="60" height="60" alt="PHP" />
+      <br /><strong>PHP</strong>
+    </td>
+    <!-- Python -->
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="60" height="60" alt="Python" />
+      <br /><strong>Python</strong>
+    </td>
+    <!-- C++ -->
+    <td align="center" width="150">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="60" height="60" alt="C++" />
+      <br /><strong>C++</strong>
     </td>
   </tr>
 </table>
 
-### ⚙️ Backend y Otros Lenguajes
+---
 
-<table border="0">
-  <tr>
-    <td align="center" width="180">
-      <h3>PHP</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="120" height="120" alt="PHP" />
-    </td>
-    <td align="center" width="180">
-      <h3>C++</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="120" height="120" alt="C++" />
-    </td>
-  </tr>
-</table>
+## 📈 Estadísticas de GitHub
 
-### 🗄️ Gestión de Datos (Operaciones CRUD)
-Para que las aplicaciones web conserven la información de forma segura y permanente, implemento operaciones **CRUD** conectadas directamente a sistemas de gestión de bases de datos relacionales.
-
-<table border="0">
-  <tr>
-    <td align="center" width="200">
-      <h3>MySQL</h3>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="140" height="140" alt="MySQL" />
-    </td>
-  </tr>
-</table>
+```xml
+<!-- Puedes descomentar y usar estas líneas si quieres añadir tus tarjetas de estadísticas más adelante reemplazando TU_USUARIO -->
+<!-- 
+<p align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical](https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical)" alt="Estadísticas de GitHub" />
+</p> 
+-->
