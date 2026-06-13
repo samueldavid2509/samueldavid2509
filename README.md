@@ -11,21 +11,47 @@ Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Me 
 ## 🛠️ Tecnologías y Herramientas
 
 ### 💻 Frontend
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=HTML5&lineCount=1&theme=dark&line1=html5%2Chtml5%2Cffffff%3B" alt="HTML5" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=CSS3&lineCount=1&theme=dark&line1=css3%2Ccss3%2Cffffff%3B" alt="CSS3" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=JavaScript&lineCount=1&theme=dark&line1=javascript%2Cjavascript%2Cffffff%3B" alt="JavaScript" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
-</p>
+
+<table border="0">
+  <tr>
+    <td align="center" width="180">
+      <h3>HTML5</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="120" height="120" alt="HTML5" />
+    </td>
+    <td align="center" width="180">
+      <h3>CSS3</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="120" height="120" alt="CSS3" />
+    </td>
+    <td align="center" width="180">
+      <h3>JavaScript</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="120" height="120" alt="JavaScript" />
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend y Otros Lenguajes
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=PHP&lineCount=1&theme=dark&line1=php%2Cphp%2Cffffff%3B" alt="PHP" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
-  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=C%2B%2B&lineCount=1&theme=dark&line1=cplusplus%2Ccplusplus%2Cffffff%3B" alt="C++" height="120" style="margin-right: 10px; margin-bottom: 10px;"/>
-</p>
+
+<table border="0">
+  <tr>
+    <td align="center" width="180">
+      <h3>PHP</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="120" height="120" alt="PHP" />
+    </td>
+    <td align="center" width="180">
+      <h3>C++</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="120" height="120" alt="C++" />
+    </td>
+  </tr>
+</table>
 
 ### 🗄️ Gestión de Datos (Operaciones CRUD)
 Para que las aplicaciones web conserven la información de forma segura y permanente, implemento operaciones **CRUD** conectadas directamente a sistemas de gestión de bases de datos relacionales.
 
-<p align="left">
-  <img src="https://github-readme-tech-stack.vercel.am/api/cards?title=MySQL&lineCount=1&theme=dark&line1=mysql%2Cmysql%2Cffffff%3B" alt="MySQL" height="130"/>
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="200">
+      <h3>MySQL</h3>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="140" height="140" alt="MySQL" />
+    </td>
+  </tr>
+</table>
