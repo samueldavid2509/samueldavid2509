@@ -1,13 +1,13 @@
 # ¡Hola! Soy Samuel David 🇨🇴 👋
 
-¡Bienvenido a mi perfil de GitHub! Soy **Programador de Software** y **Estudiante de Ingeniería de Sistemas**. Mi enfoque principal es el desarrollo web, la creación de páginas web dinámicas, interactivas y la implementación de sistemas CRUD eficientes. Me motiva transformar ideas en código funcional, resolver problemas complejos mediante la ingeniería y seguir expandiendo mis habilidades día a día.
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado del desarrollo web enfocado en la creación de sitios dinámicos, interactivos y la implementación de sistemas CRUD eficientes. Me motiva transformar ideas complejas en código funcional, resolver problemas mediante la ingeniería y expandir mis habilidades técnicas día a día.
 
 ## 🚀 Sobre mí
 
-- 🎓 **Estudiante de Ingeniería de Sistemas**, aplicando fundamentos sólidos de ciencia de la computación al desarrollo real.
-- 💻 **Programador de Software** enfocado en el desarrollo frontend y backend para aplicaciones web.
-- 🛠️ Experiencia construyendo aplicaciones estructuradas y manejo de bases de datos con operaciones CRUD.
-- 📚 En constante aprendizaje y perfeccionamiento de mis habilidades técnicas.
+- 🎓 **Formación Académica:** Estudiante de Ingeniería de Sistemas, aplicando fundamentos sólidos de la ciencia de la computación a proyectos reales.
+- 💻 **Desarrollo Web:** Orientado al diseño y optimización de aplicaciones tanto en el frontend como en el backend.
+- 🛠️ **Soluciones CRUD:** Experiencia construyendo arquitecturas estructuradas y gestionando bases de datos de forma eficiente.
+- 📚 **Evolución Continua:** En constante aprendizaje para dominar nuevas tecnologías y perfeccionar mis metodologías de trabajo.
 
 ---
 
@@ -38,18 +38,3 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/>
   </a>
 </p>
-
----
-
-## 📚 Educación y Certificaciones
-
-Aquí comparto los cursos y plataformas donde sigo potenciando mi perfil profesional:
-
-* 🎓 **Ingeniería de Sistemas** – Universidad (En curso)
-* 🚀 **Curso / Diplomado en Desarrollo Web** – https://app.edutin.com/classroom?course_id=12737&source_id=169615
-* ✍️ *Próximamente más certificaciones...*
-
----
-
-⚡ *¡Próximamente estaré añadiendo mi portafolio, proyectos destacados y soluciones de software a medida que siga creciendo profesionalmente!*
-
