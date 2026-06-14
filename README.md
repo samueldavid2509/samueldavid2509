@@ -46,8 +46,3 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
   </a>
 </p>
 
-<p align="left">
-  <a href="https://drive.google.com/file/d/1YSo8NSa7IfbgAfm9cvbqCqJHv72QvwEE/view" target="_blank" style="text-decoration: none;">
-    <h3>📜 Certificación en Fundamentos y Desarrollo con IA</h3>
-  </a>
-</p>
