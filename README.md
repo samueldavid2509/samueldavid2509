@@ -6,7 +6,7 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
 
 ---
 
-## 🛠️ Tecnologías E Lenguajes
+## 🛠️ Tecnologías : 
 
 ### 🌐 Frontend & Diseño Web
 <p align="left">
