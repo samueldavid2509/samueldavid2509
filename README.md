@@ -45,3 +45,9 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="85" />
   </a>
 </p>
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1YSo8NSa7IfbgAfm9cvbqCqJHv72QvwEE/view" target="_blank" style="text-decoration: none;">
+    <h3>📜 Certificación en Fundamentos y Desarrollo con IA</h3>
+  </a>
+</p>
