@@ -49,7 +49,7 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
 
 ## 📜 Certificados
 <div class="sec-1">
-<a href="https://drive.google.com/file/d/1YSo8NSa7IfbgAfm9cvbqCqJHv72QvwEE/view">
 	<h1>DESARROLLO CON IA</h1>
+	<a href="https://drive.google.com/file/d/1YSo8NSa7IfbgAfm9cvbqCqJHv72QvwEE/view">
  </a>
 </div>
