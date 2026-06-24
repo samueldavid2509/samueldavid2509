@@ -48,7 +48,7 @@ Me dedico a transformar ideas de negocio en soluciones digitales funcionales, es
 
 
 ## 📜 Certificados
-🎓 [DESARROLLO CON IA - BIG SCHOOL](https://drive.google.com/file/d/1YSo8NSa7IfbgAfm9cvbqCqJHv72QvwEE/view) 
+🎓 [INTRODUCCIÓN AL DESARROLLO CON IA - BIG SCHOOL](https://drive.google.com/file/d/1YSo8NSa7IfbgAfm9cvbqCqJHv72QvwEE/view) 
 
-🎓 [INTRODUCCION A LA CIBERSEGURIDAD - HP LIFE](https://www.life-global.org/certificate/e68c65c1-e2c4-43a8-9203-09c86698ea64)
+🎓 [INTRODUCCIÓN A LA CIBERSEGURIDAD - HP LIFE](https://www.life-global.org/certificate/e68c65c1-e2c4-43a8-9203-09c86698ea64)
 
